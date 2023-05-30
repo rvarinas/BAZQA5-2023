@@ -5,6 +5,7 @@ Intereses
  - Música Clasica
  - ItaloDance
  - POP
+ - Dance
 
 Ciudad de Nacimiento
 - Ciudad de México
